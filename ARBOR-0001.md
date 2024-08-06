@@ -1,5 +1,5 @@
-# META-0001
-## Meta Recommendation 0001
+# ARBOR-0001
+
 General ARBOR Template <- Title goes here
 
 Scope:
